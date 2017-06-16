@@ -22,6 +22,7 @@ personal preferences for VS Code
     },
     "files.autoSave": "onFocusChange",
     "files.trimTrailingWhitespace": true,
+    "terminal.integrated.shell.linux": "/bin/zsh",
     "terminal.integrated.shell.windows": "C:\\Windows\\sysnative\\bash.exe",
     "window.zoomLevel": 0,
     "workbench.colorTheme": "Monokai Dimmed"
